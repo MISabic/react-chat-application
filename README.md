@@ -1,4 +1,4 @@
-# Realtime Chat Application
+# React Chat Application
 
 ## Backend
 
