@@ -1,0 +1,22 @@
+.new-message {
+  grid-area: compose-message;
+  display: flex;
+  align-items: flex-end;
+}
+
+.send-message {
+  border-radius: 15px;
+  border: none;
+  margin-left: 10px;
+  /* border: 1px solid black; */
+  background-color: #1f3841;
+  cursor: pointer;
+  /* background: none; */
+}
+
+img {
+  height: 30px;
+  width: 30px;
+  padding: 10px;
+  transform: rotate(-45deg);
+}

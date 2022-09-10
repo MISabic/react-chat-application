@@ -1,0 +1,28 @@
+.previous-message {
+  grid-area: prev-message;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: initial;
+  /* display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-end; */
+}
+
+.previous-message p {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
+  font-size: 16px;
+  width: 100%;
+  word-wrap: break-word;
+}
+
+.selfMessage {
+  text-align: left;
+  color: lime;
+}
+
+.peerMessage {
+  text-align: right;
+  color: cyan;
+}
